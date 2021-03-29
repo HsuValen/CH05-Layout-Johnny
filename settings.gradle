@@ -1,0 +1,13 @@
+include ':0500test_converter'
+include ':0506_textview_scolable'
+include ':0505_Auto_Complete_TextInput'
+include ':0504_CheckBox'
+include ':0503_CheckBox'
+include ':0502a_Marrisug_zh'
+include ':0502_Marrisug'
+
+include ':0500d_Converter'
+include ':0500f_MoneyChange'
+include ':0500g_AreaConver'
+include ':0501_Marrisug'
+rootProject.name = "CH05-Layout"

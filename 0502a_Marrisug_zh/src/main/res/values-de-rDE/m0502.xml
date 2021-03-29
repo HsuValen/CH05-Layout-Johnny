@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="m0502_b001">Heiratsantrag</string>
+    <string name="chk01">männlich</string>
+    <string name="m0502_f000">schlage dich vor</string>
+    <string name="m0502_f001">Noch jung, keine Sorge. (männlich)</string>
+    <string name="m0502_f002">Es ist am besten, zu diesem Zeitpunkt zu heiraten. (männlich)</string>
+    <string name="m0502_f003">Beeilen Sie sich, um einen Partner zu finden, es ist zu spät. (Männlich)</string>
+    <string name="m0502_f004">Noch jung, keine Sorge. (weiblich)</string>
+    <string name="m0502_f005">Es ist am besten, zu diesem Zeitpunkt zu heiraten. (weiblich)</string>
+    <string name="m0502_f006">Beeilen Sie sich und suchen Sie einen Partner, es ist zu spät. (weiblich)</string>
+    <string name="m0502_r001a">männlich</string>
+    <string name="m0502_r001b">weiblich</string>
+    <string name="m0502_r002aa">jünger als 28 Jahre</string>
+    <string name="m0502_r002ab">28 ~ 33 Jahre alt</string>
+    <string name="m0502_r002ac">älter als 33 Jahre</string>
+    <string name="m0502_r002ba">jünger als 25 Jahre</string>
+    <string name="m0502_r002bb">25 ~ 30 Jahre alt</string>
+    <string name="m0502_r002bc">älter als 30 Jahre</string>
+    <string name="m0502_s001">Geschlechtsauswahl</string>
+    <string name="m0502_t001">Geschlecht:</string>
+    <string name="m0502_t002">Alter:</string>
+    <string name="m0502_t003">Ergebnis:</string>
+
+</resources>

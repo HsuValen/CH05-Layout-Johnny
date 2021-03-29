@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0500_t001">公斤(Kg):</string>
+    <string name="m0500_h001">請輸入數字</string>
+    <string name="m0500_t002">磅(lb)</string>
+</resources>
